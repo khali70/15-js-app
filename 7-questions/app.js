@@ -4,7 +4,6 @@ console.log(target);
 target.forEach((artical) => {
   const btn = artical.querySelector(".question-btn");
   btn.addEventListener("click", () => {
-    console.log("btn clicked", btn);
     target.forEach((item) => {
       if (artical !== item) {
         item.classList.remove("show-text");

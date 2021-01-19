@@ -1,17 +1,31 @@
-this is 15 js app but still 2 app missing
+- [color flipper](#color-flipper)
+- [counter](#counter)
+- [review](#review)
+- [Nav](#nav)
+- [s-sidebar](#s-sidebar)
+- [Modal](#modal)
+- [Q&A](#qa)
+- [menu](#menu)
+- [vedio](#vedio)
+- [scroll](#scroll)
+- [tabs](#tabs)
+- [count Down timer](#count-down-timer)
+- [random lorem](#random-lorem)
+- [todo](#todo)
+- [slider](#slider)
 
-# color flipper
+## color flipper
 
 random color picker app there is two option
 
 - simple :chose form 4 colors
 - hex: any random hex color
 
-# counter
+## counter
 
 add,sub reset counter
 
-# review
+## review
 
 app to display the description of applicant
 
@@ -21,57 +35,57 @@ app to display the description of applicant
 - prev => to see the provious applicant
 - suprise me => chose random applicant
 
-# Nav
+## Nav
 
 not finished yet
 
-# s-sidebar
+## s-sidebar
 
 not finished yet
 
-# Modal
+## Modal
 
 simple modal app
 
-# Q&A
+## Q&A
 
 there section when you chose a Q it toggle the Q and hide any other open Q
 `section toggler`
 ![Q&A](./img/7-Q&A.png)
 
-# menu
+## menu
 
 app to filter dishes based in the type you want
 ![menu App](./img/8-menu.png)
 
-# vedio
+## vedio
 
 `background vedio`
 ![bacground vedio](./img/9-video.png)
 
-# scroll
+## scroll
 
 navbar scroll to the nav item section
 ![scroll](./img/10-scroll.png)
 
-# tabs
+## tabs
 
 `tab toggler`
 ![tabs](./img/11-tabs.png)
 
-# count Down timer
+## count Down timer
 
 ![count down timer](./img/12-countDown.png)
 
-# random lorem
+## random lorem
 
 ![random lorem](./img/13-randomLorem.png)
 
-# todo
+## todo
 
 ![todo](./img/14-todo.png)
 
-# slider
+## slider
 
 slide img
 ![slider](./img/15-slider.png)
