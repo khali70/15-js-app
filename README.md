@@ -61,16 +61,19 @@ app to filter dishes based in the type you want
 ## vedio
 
 `background vedio`
+
 ![bacground vedio](./img/9-video.png)
 
 ## scroll
 
 navbar scroll to the nav item section
+
 ![scroll](./img/10-scroll.png)
 
 ## tabs
 
 `tab toggler`
+
 ![tabs](./img/11-tabs.png)
 
 ## count Down timer
@@ -88,4 +91,5 @@ navbar scroll to the nav item section
 ## slider
 
 slide img
+
 ![slider](./img/15-slider.png)
